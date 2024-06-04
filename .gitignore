@@ -8,4 +8,4 @@ vendor/
 *.json
 
 # 中间结果
-.nohup.out
+nohup.out
